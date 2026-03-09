@@ -1,7 +1,6 @@
 # 💫 About Me:
 I am a third-year Computer Science student passionate about problem-solving and enhancing my DSA skills. I enjoy building small projects using HTML, CSS, and JavaScript, and I am currently learning React.js to expand my front-end development expertise.
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/krishika-dhiman-a8358028a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krishikadhiman2006@gmail.com) 
 
